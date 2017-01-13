@@ -1,0 +1,12 @@
+question 1 - Inter.scala
+question 2 - Largest.scala
+question 3 - Fibonacci.scala
+question 4 - Playingwithdigits
+
+submitted by: 
+
+Shivangi Gupta
+Ankit Kumar Barthwal
+(13/1/2017)
+
+
